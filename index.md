@@ -26,7 +26,7 @@ Alternatively, the lob may have been appropriate, but hit without sufficient for
 * 3 arm bandit task created by Sam, adapted for EEG study
 
 </div> <div style="position: relative; left: 0; top: 0px; z-index:100">
-<img src='assets/img/Task_Overview.png' width="680px">
+<img src='assets/img/Task_Overview.png' width="640px">
 </div>
 
 --- .class ##id  
@@ -171,7 +171,7 @@ This is certainly at odds with a nice ordering based on probability within each 
 * PhD student (Jack Brookes) has been playing around with a VR version of the 3-arm bandit
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/Capture.png' height="700px" width="660px">
+<img src='assets/img/Capture.PNG' height="700px" width="660px">
 </div>
 
 
