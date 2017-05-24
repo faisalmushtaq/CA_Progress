@@ -12,7 +12,7 @@ knit        : slidify::knit2slides
 
 ---
 
-## Background
+## Preamble: Credit Assignment Problem
 * In many daily scenarios, the feedback we receive about our behaviour is inferred only from the presence or absence of reward - with a myriad of factors potentially causing the observed outcome. 
 
 * Consider a tennis player who, mid-game, must rapidly determine whether losing the most recent point was the result of a selection or execution error. If the opponent had just delivered a crushing overhead smash to win the point, our player might have unwisely attempted a lob rather than a passing shot (action selection error).  
