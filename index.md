@@ -26,7 +26,7 @@ Alternatively, the lob may have been appropriate, but hit without sufficient for
 * 3 arm bandit task created by Sam, adapted for EEG study
 
 </div> <div style="position: relative; left: 0; top: 0px; z-index:100">
-<img src='assets/img/Task_Overview.pdf' width="680px">
+<img src='assets/img/Task_Overview.tiff' width="680px">
 </div>
 
 --- .class ##id  
