@@ -107,7 +107,7 @@ outcome varies as a function of probability.
 ## Targets/Outcome 
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/OutcomeType_3panel_targets.png' height="700px" width="900px">
+<img src='assets/img/OutcomeType_3panel_Targets.png' height="700px" width="900px">
 </div>
 
 > Rich: the new figure reveals another curious result. for the miss trials, there is a downward swoop at around 130 ms for the high break and high miss conditions.
