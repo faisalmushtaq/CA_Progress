@@ -15,8 +15,7 @@ knit        : slidify::knit2slides
 ## Preamble: Credit Assignment Problem
 * In many daily scenarios, the feedback we receive about our behaviour is inferred only from the presence or absence of reward - with a myriad of factors potentially causing the observed outcome. 
 
-* Consider a tennis player who, mid-game, must rapidly determine whether losing the most recent point was the result of a selection or execution error. If the opponent had just delivered a crushing overhead smash to win the point, our player might have unwisely attempted a lob rather than a passing shot (action selection error).  
-Alternatively, the lob may have been appropriate, but hit without sufficient force (execution error). 
+* Consider a tennis player who, mid-game, must rapidly determine whether losing the most recent point was the result of a selection or execution error. If the opponent had just delivered a crushing overhead smash to win the point, our player might have unwisely attempted a lob rather than a passing shot (action selection error).Alternatively, the lob may have been appropriate, but hit without sufficient force (execution error). 
 
 * Importantly, the way in which the player assigns credit to these sources will drive subsequent behaviour; e.g. adapting sensorimotor response for the latter, but changing choice of stroke for the former. Such problems are not restricted to the sporting arena and can be a matter of life and death e.g. a surgeon in the operating theatre must quickly determine whether an unexpected bleed was the result of a clumsy incision or the wrong choice of procedure. 
 
