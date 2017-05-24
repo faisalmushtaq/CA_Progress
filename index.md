@@ -118,7 +118,7 @@ This is certainly at odds with a nice ordering based on probability within each 
 
 --- .class ##id  
 
-## More but not ready for prime time- yet...
+## More- but not ready for prime time
 
 * Inspired by the 2-armed bandit: an Interceptive timing version
 
