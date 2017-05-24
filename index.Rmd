@@ -1,6 +1,6 @@
 ---
-title       : ERP Credit Assignment Study
-subtitle    : Preliminary Results May 2017
+title       : Credit Assignment Experiments- Progress
+subtitle    : Catch up and Preliminary Results- May 2017
 author      : Faisal Mushtaq
 job         : School of Psychology, Faculty of Medicine and Health, University of Leeds
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -26,7 +26,7 @@ Alternatively, the lob may have been appropriate, but hit without sufficient for
 * 3 arm bandit task created by Sam, adapted for EEG study
 
 </div> <div style="position: relative; left: 0; top: 0px; z-index:100">
-<img src='assets/img/Task_Overview.tiff' width="680px">
+<img src='assets/img/Task_Overview.png' width="680px">
 </div>
 
 --- .class ##id  
@@ -38,7 +38,7 @@ Alternatively, the lob may have been appropriate, but hit without sufficient for
 * Pooling all gives n = 56 (and increasing)
 
 </div> <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/Pooled_Decision_Dynamics.pdf' height="300px" width="950px">
+<img src='assets/img/Pooled_Decision_Dynamics.png' height="300px" width="950px">
 </div>
 Figure 1: Systematic bias towards selecting miss targets- emerges early on
 
@@ -49,7 +49,7 @@ Figure 1: Systematic bias towards selecting miss targets- emerges early on
 * Pilot tested with non-preferred hand (all right handers with EHI >80)
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/NP_Freq_Analysis.pdf' height="200px" width="300px">
+<img src='assets/img/NP_Freq_Analysis.png' height="200px" width="300px">
 </div>
 
 * Plan to run a within subjects design. Thoughts?
@@ -70,7 +70,7 @@ Figure 1: Systematic bias towards selecting miss targets- emerges early on
 ## FRN and some early predictions
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/Fig2_TopView_EEG_Predictions.tiff' height="200px" width="600px">
+<img src='assets/img/Fig2_TopView_EEG_Predictions.png' height="200px" width="600px">
 </div>
 
 Fig. (A) The canonical FRN (inset shows topographical distribution of the component), adapted from Mushtaq et al. 2016: (B) A strong form of the Execution Gating Hypothesis predicts the FRN should be smaller in response to execution errors (blue). An alternative, where executions are weighted more heavily than selection, is represented in orange.
@@ -81,7 +81,7 @@ Fig. (A) The canonical FRN (inset shows topographical distribution of the compon
 ## Grand Averaged ERPs per outcome
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/Fig2_FRN_ERP_Scalp.pdf' height="200px" width="400px">
+<img src='assets/img/FRN_ERP_Scalp.png' height="200px" width="400px">
 </div>
 
 * statistically reliable differencesfrom ~200-300ms. also frontally distributed- where we would expect the FRN. 
@@ -96,7 +96,7 @@ is because here there is a spatial signal of the error and this might be more sa
 ## Outcomes/Target 
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/Fig3_Target_3panel.pdf' height="700px" width="1000px">
+<img src='assets/img/TargetType_3panel_Outcomes.png' height="700px" width="1000px">
 </div>
 
 > Rich: Re neutral: Although a bit hard to see, the main effect here seems to be that Break FRN is attenuated in the Neutral case.  This would be puzzling if I am not misunderstanding neutral since neutral probability would be between high and low. Could you replot these data, with each panel for one type of outcome (miss, break, hit) and the three functions showing when the outcome was high, low, or neutral. This would be another way to see if the ERP to a particular
@@ -107,7 +107,7 @@ outcome varies as a function of probability.
 ## Targets/Outcome 
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/OutcomeType_3panel_targets.pdf' height="700px" width="900px">
+<img src='assets/img/OutcomeType_3panel_targets.png' height="700px" width="900px">
 </div>
 
 > Rich: the new figure reveals another curious result. for the miss trials, there is a downward swoop at around 130 ms for the high break and high miss conditions.
@@ -125,7 +125,7 @@ This is certainly at odds with a nice ordering based on probability within each 
 * Manipulating feedback salience:
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/Paradigm_Structure.pdf' height="700px" width="900px">
+<img src='assets/img/Paradigm_Structure.png' height="700px" width="900px">
 </div>
 
 * (A) KP = Spatial; (B) KR = Binary
@@ -139,7 +139,7 @@ This is certainly at odds with a nice ordering based on probability within each 
 * Veridical feedback
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/Exp1_3panel.pdf' height="700px" width="900px">
+<img src='assets/img/Exp1_3panel.png' height="700px" width="900px">
 </div>
 
 
@@ -150,7 +150,7 @@ This is certainly at odds with a nice ordering based on probability within each 
 * Pseudoveridical feedback
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/Exp2_3panel.pdf' height="700px" width="900px">
+<img src='assets/img/Exp2_3panel.png' height="700px" width="900px">
 </div>
 
 
@@ -161,7 +161,7 @@ This is certainly at odds with a nice ordering based on probability within each 
 * Pseudoveridical feedback + switch feedback within subjects
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/Exp3_3panel.pdf' height="700px" width="900px">
+<img src='assets/img/Exp3_3panel.png' height="700px" width="900px">
 </div>
 
 --- .class ##id  
@@ -171,13 +171,8 @@ This is certainly at odds with a nice ordering based on probability within each 
 * PhD student (Jack Brookes) has been playing around with a VR version of the 3-arm bandit
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/VR.png' height="700px" width="500px">
+<img src='assets/img/Capture.png' height="700px" width="660px">
 </div>
 
 
 * Havent quite figured the right parameters balancing task difficulty and no data collected yet but is lots of fun!...
-
-
-
-
-
