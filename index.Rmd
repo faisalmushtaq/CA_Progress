@@ -117,6 +117,18 @@ This is certainly at odds with a nice ordering based on probability within each 
 
 --- .class ##id  
 
+  
+
+## Further analyses?
+
+> Sam: what we may be seeing here is a multiplexed FRN that is responding to both the reward-based task (hits vs. breaks) and the simultaneous reaching task (hitting the target vs missing). The mystery is that people prefer the option that seems to yield the bigger FRN (assuming that difference holds up statistically). One hypothesis i'm thinking about is that the "miss" FRN could drive motor correcting on the next trial (action execution error), and the "break" FRN could drive reward updating (action selection error). Perhaps we could see a correlation btw the size of break-FRNs and negative prediction errors from a model fitting analysis, and a correlation between the size of miss-FRNs and aim changes on the subsequent trial? 
+
+> Sam: does the miss FRN show any relationship to the size of the visual error on that trial?
+
+
+--- .class ##id
+
+
 ## More- but not ready for prime time
 
 * Inspired by the 2-armed bandit: an Interceptive timing version
