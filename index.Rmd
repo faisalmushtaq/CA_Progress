@@ -1,6 +1,6 @@
 ---
 title       : Credit Assignment Experiments- Progress
-subtitle    : Catch up and Preliminary Results- May 2017
+subtitle    : June 2017
 author      : Faisal Mushtaq
 job         : School of Psychology, Faculty of Medicine and Health, University of Leeds
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -9,7 +9,6 @@ hitheme     : tomorrow      #
 widgets     : [bootstrap]  # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
-
 ---
 
 ## Preamble: Credit Assignment Problem

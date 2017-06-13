@@ -1,6 +1,6 @@
 ---
-title       : Credit Assignment Experiments- Progress since last meeting
-subtitle    : June 2017
+title       : Credit Assignment Experiments- Progress
+subtitle    : May 2017
 author      : Faisal Mushtaq
 job         : School of Psychology, Faculty of Medicine and Health, University of Leeds
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
