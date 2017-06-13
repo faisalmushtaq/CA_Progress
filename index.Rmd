@@ -12,6 +12,7 @@ knit        : slidify::knit2slides
 ---
 
 ## Overview of to do (and done) list
+
 * Breakdown of behavioural data
 * Ran peak-to-peak analysis on FRN - done
 * Early vs late phase analysis- focus on today
@@ -45,7 +46,8 @@ Figure 2: (A) Behavioural Only; (B) EEG; (C) Pooled. Shows filtered data of % (s
 
 ## Grand Averaged ERPs per outcome
 
-* statistically reliable differencesfrom ~200-300ms. also frontally distributed- where we would expect the FRN
+* statistically reliable differences from ~200-300ms
+* But no difference when using a p2p measuring FRN (right panel)
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
 <img src='assets/img/FRN_ERP_Scalp.png' height="600px" width="1000px">
@@ -53,14 +55,13 @@ Figure 2: (A) Behavioural Only; (B) EEG; (C) Pooled. Shows filtered data of % (s
 
 --- .class ##id  
 
-## Peak to Peak FRN
+## Peak to peak FRN
 
-* No difference when using a p2p measuring FRN
 * peak positive amplitude between 150-250ms - peak negative amplitude between 250-350
 * higher values inidcate larger FRN
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/FRN_P2P_Analysis_Lines.png' height="300px" width="450px">
+<img src='assets/img/FRN_P2P_Analysis_Lines.png' height="260px" width="420px">
 </div>
 
 --- .class ##id  
@@ -91,7 +92,7 @@ Figure 2: (A) Behavioural Only; (B) EEG; (C) Pooled. Shows filtered data of % (s
 
 --- .class ##id  
 
-## VR Experiment- Instruction Video
+## VR Experiment- instruction video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U3RFrceKLio" frameborder="0" allowfullscreen></iframe>
 
