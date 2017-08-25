@@ -1,7 +1,7 @@
 ---
 title       : Credit Assignment - Progress since last meeting
-subtitle    : June 2017
-author      : Faisal Mushtaq, Jack Brookes, Zeynep Uludag and Mark Mon-Williams
+subtitle    : August 2017
+author      : Faisal Mushtaq
 job         : School of Psychology, Faculty of Medicine and Health, University of Leeds
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : prettify  # {highlight.js, prettify, highlight}
@@ -13,11 +13,7 @@ knit        : slidify::knit2slides
 
 ## Overview of to do (and done) list
 
-* Breakdown of behavioural data
-* Ran peak-to-peak analysis on FRN - done
-* Early vs late phase analysis- focus on today
-* Collect within subject (pref vs non pref hand) data - ongoing
-* Export trial by trial data- on going- due early next week
+* Identified problem in ERP analysis differences
 
 --- .class ##id  
 

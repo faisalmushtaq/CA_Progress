@@ -1,0 +1,36 @@
+---
+title       : Pre-Meeting Intro and Demo
+subtitle    : CKAT- The ‘Clinical  Kinematic Assessment  Tool’
+author      : Prof Mark Mon-Williams, Dr Faisal Mushtaq, Dr Chris Brown
+job         : University of Leeds
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : prettify  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : [bootstrap]  # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Introduction
+
+* Mark Mon-Williams: Professor of Cognitive Psychology at the University of Leeds, UK. Mark is the primary investigator and academic lead for CKAT development
+
+* Chris Brown: Research and Innovations manager 
+
+Faisal Mushtaq: cognitive neuroscientist, tenure track researcher fellow, helped develop and refine the CKAT data analysis pipeline.
+
+--- .class ##id 
+
+## Background
+
+* The Clinical Kinematic Assessment Tool (CKAT) runs on portable tablet computers and presents brief test batteries capable of recording high resolution, accurate measures of children’s manual dexterity. 
+
+* Data have been collected on >10,000 children to date 
+
+
+
+--- .class ##id 
+
+## Demonstration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8lh3nWY92qc" frameborder="0"></iframe>
